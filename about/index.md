@@ -1,8 +1,10 @@
+---
 layout: page
 title: Sobre mim
 tags: [Sobre, Eu, Escritora, Apresentação]
 date: 2017-10-30
 comments: false
+---
 ![enter image description here](https://i.imgur.com/4odpL3f.jpg)
 
 Muito prazer, sou a Sophia, a escritora d’O Nosso Livro. Vivo em Portugal, tenho 22 anos e sou licenciada em Conservação e Restauro, sendo que neste momento frequento o Mestrado na mesma área, mas, para ser honesta, a minha paixão é realmente a **escrita**!
