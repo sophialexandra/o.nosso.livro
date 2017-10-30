@@ -15,6 +15,6 @@ Há um ano comecei a planear este meu primeiro livro: fiz uma construção exaus
 
 Este Blog foi criado para expor esta minha paixão por meio de pequenos textos, dicas e vestígios do meu percurso pelo mundo da escrita. Acaba por ser um incentivo tanto para mim como para ti para que não haja desistências a meio caminho. Eu acredito em ti assim como espero que tu acredites em mim!
 
-Assim, convido-te a desfrutar deste Blog criado com muito amor e carinho e, se precisares, não hesites em contactar comigo:
+Vá, chega de conversa, desfruta deste Blog criado com muito amor e carinho e, se precisares, não hesites em contactar comigo:
 
 o.nosso.livro.sa@gmail.com
