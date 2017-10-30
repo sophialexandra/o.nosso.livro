@@ -3,7 +3,7 @@ layout: page
 title: Sobre mim
 date: 2017-10-30
 tags: [sample post, readability, test, image, feature]
-feature: https://i.imgur.com/sEM3b6f.jpg
+feature: https://i.imgur.com/iQUiXmc.jpg
 comments: true
 ---
 
