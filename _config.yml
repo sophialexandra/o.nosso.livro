@@ -1,7 +1,7 @@
 # Site
 title:              NossoLivro
-bio:                'Altera sua preguiçosa.'
-description:        "Altera aqui sua preguiçosa"
+bio:                'Põe-te confortável, calça umas meias quentinhas e liberta a tua mente. Vamos escrever o nosso livro.'
+description:        "Põe-te confortável, calça umas meias quentinhas e liberta a tua mente. Vamos escrever o nosso livro."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
