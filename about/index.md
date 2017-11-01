@@ -23,7 +23,7 @@ Este Blog foi criado para expor esta minha paixão através de:
  - Algumas **dicas** que tenho aprendendo;
  - Vestígios do meu **percurso** pelo mundo da escrita rumo à minha primeira publicação.
 
-Acaba por ser um incentivo tanto para mim como para ti para que não haja desistências a meio caminho. Eu acredito em ti assim como espero que acredites em mim eheh.
+Acaba por ser um incentivo tanto para mim como para ti para que não haja desistências a meio caminho. Eu acredito em ti assim como espero que acredites em mim!
 
 Espero que desfrutes deste Blog criado com muito amor e carinho e, se precisares de contactar comigo:
 
