@@ -20,7 +20,7 @@ Há um ano comecei a planear, como deve ser, este meu primeiro livro: fiz uma co
 Este Blog foi criado para expor esta minha paixão através de:
 
  - **Pequenos textos e histórias** que, por algum motivo, me apeteceu escrever; 
- - Algumas **dicas** que tenho aprendendo;
+ - Algumas **dicas** que tenho aprendido;
  - Vestígios do meu **percurso** pelo mundo da escrita rumo à minha primeira publicação.
 
 Acaba por ser um incentivo tanto para mim como para ti para que não haja desistências a meio caminho. Eu acredito em ti assim como espero que acredites em mim!
