@@ -9,6 +9,9 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_PT
 url:                https://sophialexandra.github.io/o.nosso.livro/
+currentWordCount:   23945
+goalWordCount:      90000
+aboutmelogo:        'assets/img/aboutmelogo.JPG'
 
 # Jekyll
 permalink:          /:title/
