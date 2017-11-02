@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_PT
-url:                https://sophialexandra.github.io/o.nosso.livro/
+url:                http://localhost:1234
 currentWordCount:   23945
 goalWordCount:      90000
 aboutmelogo:        'assets/img/aboutmelogo.JPG'
@@ -29,7 +29,7 @@ sass:
   style:            compressed
 
 # Comments
-# disqus_shortname:   taylantatli
+disqus_shortname:   o-nosso-livro
 
 # Social
 # if you don't have any of social below, comment the line.
