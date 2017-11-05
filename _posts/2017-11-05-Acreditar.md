@@ -19,7 +19,7 @@ Lembra-te que estas pessoas não te puxam para baixo por seres imaturo, ou idiot
 
 **O que interessa aqui é que, as opiniões delas não são um reflexo de ti mas sim das suas inseguranças.** 
 
-E isto é o que vais fazer: vais escrever o livro porque é aquilo que realmente queres fazer, não fiques à espera do apoio de ninguém, lembra-te que **a vida é curta**. Se vier algum apoio ótimo! Se não vier foca-te apenas em ti.
+E isto é o que vais fazer: vais escrever o livro porque é aquilo que realmente queres fazer, não fiques à espera do apoio de ninguém, lembra-te que **a vida é curta**. Se vier algum apoio ótimo! Se não vier, foca-te apenas em ti.
 
 De mim terás todo o apoio, escrever um livro é uma ótima ideia! Pode não ser à primeira, à segunda ou à terceira, mas se mantiveres o foco e a determinação, um dia irás publicar e as pessoas que não acreditavam em ti vão engolir aquilo que alguma vez disseram. **Fuck them!**
 
