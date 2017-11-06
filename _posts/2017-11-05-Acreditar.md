@@ -6,7 +6,6 @@ excerpt: "Sim, é verdade, muitas pessoas não vão acreditar em ti, não te vã
 tags: [opiniões, apoio, escrever, dicas, reflexão]
 comments: true
 ---
-
 ![enter image description here](https://i.imgur.com/ke1JZDY.jpg)
 
 Sim, é verdade, muitas pessoas não vão acreditar em ti, não te vão levar a sério o suficiente e vão chamar-te de idiota por estares a fazer algo que, na cabeça delas, não vai dar em nada. É como se as tuas opiniões e as tuas crenças não sejam válidas apenas porque és “demasiado novo/a” ou por ainda não teres publicado nenhum livro. 
