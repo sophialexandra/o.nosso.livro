@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lidar com a Insegurança"
+title: "Lidar com a insegurança"
 date: "2017-11-12"
 excerpt: "Finalmente decidiste escrever um livro! Gostas de livros e parece-te divertido escrever uma história só tua, e sabes que mais? É divertido… exceto quando não o é."
 tags: [insegurança, dicas, escrever, reflexão]
