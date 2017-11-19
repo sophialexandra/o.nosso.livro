@@ -1,4 +1,4 @@
-# Site
+ite
 title:              NossoLivro
 bio:                'Põe-te confortável, calça umas meias quentinhas e liberta a tua mente. Vamos escrever o nosso livro.'
 description:        "Muito prazer, sou a Sophia, a escritora d'O Nosso Livro."
@@ -9,7 +9,7 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_PT
 url:                https://sophialexandra.github.io/o.nosso.livro/
-currentWordCount:   23945
+currentWordCount:   24003
 goalWordCount:      90000
 aboutmelogo:        'assets/img/aboutmelogo.JPG'
 
