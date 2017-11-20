@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Lidar com a Insegurança"
-date: "2017-11-12"
-excerpt: "Finalmente decidiste escrever um livro! Gostas de livros e parece-te divertido escrever uma história só tua, e sabes que mais? É divertido… exceto quando não o é."
-tags: [insegurança, dicas, escrever, reflexão]
+title: "Escolhe o género do TEU livro"
+date: "2017-11-20"
+excerpt: "É super importante saber o género do livro escrevemos. Escolher o género certo para ti vai ajudar a guiar o público-alvo diretamente ao teu livro."
+tags: [género, livro, público-alvo, dicas, escrever]
 comments: true
 ---
 ![enter image description here](https://i.imgur.com/ohJuhDx.jpg)
