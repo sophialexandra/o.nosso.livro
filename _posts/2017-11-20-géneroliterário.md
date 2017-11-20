@@ -12,7 +12,7 @@ comments: true
 
 Não te preocupes, aqui estão algumas **dicas** que te vão ajudar a escolher o género certo para o teu livro:
 
-•	Este é um passo bastante óbvio. **É importante que te familiarizes com todos os géneros literários.** Se és um escritor e não conheces, pelo menos, dez géneros, diga-se de passagem que tens algum trabalho de casa para fazer. Por vezes este passo é o suficiente para conseguires definir o género da história que estás a escrever. Já ouviste falar da internet? Vai ao Google e pesquisa todos os géneros existentes, não é assim tão difícil.
+•	Este é um passo bastante óbvio. **É importante que te familiarizes com todos os géneros literários.** Se és um escritor/ora e não conheces, pelo menos, dez géneros, diga-se de passagem que tens algum trabalho de casa para fazer. Por vezes este passo é o suficiente para conseguires definir o género da história que estás a escrever. Já ouviste falar da internet? Vai ao Google e pesquisa todos os géneros existentes, não é assim tão difícil.
 
 •	Se o passo anterior não ajudou, faz o seguinte: **estrutura o teu livro pelas partes mais importantes e faz algumas perguntas:**
 
