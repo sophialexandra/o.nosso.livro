@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Escolhe o género do TEU livro"
+title: "Define o género do TEU livro"
 date: "2017-11-20"
 excerpt: "É super importante saber o género do livro que escrevemos. Escolher o género certo para ti vai ajudar a guiar o público-alvo diretamente ao teu livro."
 tags: [género, livro, público-alvo, dicas, escrever]
