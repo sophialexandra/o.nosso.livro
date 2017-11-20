@@ -23,7 +23,7 @@ Não te preocupes, aqui estão algumas **dicas** que te vão ajudar a escolher o
 
 É importante ter em mente que estes exemplos nem sempre são tão diretos e retos como referi, pode haver uma relação amorosa num livro de ficção científica ou um assassino em série num livro de romance. 
 
-Após este passo possivelmente já conseguiste chegar a algum lado no que toca ao género da tua história, mas, se ainda tens algumas dúvidas verifica os passos a seguir:
+Após este passo possivelmente já conseguiste chegar a algum lado no que toca ao género da tua história, mas se ainda tens algumas dúvidas verifica os passos a seguir:
 
 •	**Eliminar e/ou combinar géneros**, ou seja, um livro pode entrar em mais do que apenas um género, mas tens de ter em atenção os elementos mais importantes que irão defini-lo, senão poderás acabar por ter todos os géneros num só livro. A chave é ser seletivo acerca da combinação, isto se esta for realmente necessária.
 
