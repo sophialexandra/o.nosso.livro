@@ -16,13 +16,10 @@ Não te preocupes, aqui estão algumas **dicas** que te vão ajudar a escolher o
 
 •	Se o passo anterior não ajudou, faz o seguinte: **estrutura o teu livro pelas partes mais importantes e faz algumas perguntas:**
 
-	Qual é o enredo? Livros de fantasia geralmente têm magia, livros de ficção científica geralmente têm elementos futuristas, mas existem géneros que dependem apenas do enredo e não dos elementos nele presentes. Por exemplo, um livro que fala de aventuras épicas possivelmente entrará no género ação/ aventura, um livro que fala em dois jovens que se apaixonam e que vivem um romance arrebatador possivelmente entrará no género romance, etc.
-	
-	Qual a época e o local onde se passa a história? Se o enredo é passado em Marte no ano de 3089 será possivelmente ficção científica, se o enredo é passado num mundo construído por ti será possivelmente fantasia.
-	
-	Tem monstros ou criaturas? Que tipo? Se estas criaturas saírem apenas à noite para assassinar pessoas e comer as suas entranhas entrará no género horror ou paranormal, se estas criaturas cuspirem fogo ou gelo entrará no género fantasia. 
-	
-	Quais são as relações primárias na história? Romance? Erotismo?
+ 1. Qual é o enredo? Livros de fantasia geralmente têm magia, livros de ficção científica geralmente têm elementos futuristas, mas existem géneros que dependem apenas do enredo e não dos elementos nele presentes. Por exemplo, um livro que fala de aventuras épicas possivelmente entrará no género ação/ aventura, um livro que fala em dois jovens que se apaixonam e que vivem um romance arrebatador possivelmente entrará no género romance, etc.
+ 2. Qual a época e o local onde se passa a história? Se o enredo é passado em Marte no ano de 3089 será possivelmente ficção científica, se o enredo é passado num mundo construído por ti será possivelmente fantasia.
+ 3. Tem monstros ou criaturas? Que tipo? Se estas criaturas saírem apenas à noite para assassinar pessoas e comer as suas entranhas entrará no género horror ou paranormal, se estas criaturas cuspirem fogo ou gelo entrará no género fantasia. 
+ 4. Quais são as relações primárias na história? Romance? Erotismo?
 
 É importante ter em mente que estes exemplos nem sempre são tão diretos e retos como referi, pode haver uma relação amorosa num livro de ficção científica ou um assassino em série num livro de romance. 
 
