@@ -2,13 +2,13 @@
 layout: post
 title: "Escolhe o género do TEU livro"
 date: "2017-11-20"
-excerpt: "É super importante saber o género do livro escrevemos. Escolher o género certo para ti vai ajudar a guiar o público-alvo diretamente ao teu livro."
+excerpt: "É super importante saber o género do livro que escrevemos. Escolher o género certo para ti vai ajudar a guiar o público-alvo diretamente ao teu livro."
 tags: [género, livro, público-alvo, dicas, escrever]
 comments: true
 ---
 ![enter image description here](https://i.imgur.com/ohJuhDx.jpg)
 
-**É super importante saber o género do livro escrevemos.** Escolher o género certo para ti vai ajudar a guiar o público-alvo diretamente ao teu livro. Apesar disto, se ainda agora começaste ou se ainda não começaste a escrever, este passo não é a tua prioridade. Preocupa-te apenas com a história que queres contar, não tentes força-la a entrar dentro de uma caixa específica. Mas se já estás bastante avançado/ a no processo, esta seria uma boa altura para categoriza-lo.
+**É super importante saber o género do livro que escrevemos.** Escolher o género certo para ti vai ajudar a guiar o público-alvo diretamente ao teu livro. Apesar disto, se ainda agora começaste ou se ainda não começaste a escrever, este passo não é a tua prioridade. Preocupa-te apenas com a história que queres contar, não tentes força-la a entrar dentro de uma caixa específica. Mas se já estás bastante avançado/ a no processo, esta seria uma boa altura para categoriza-lo.
 
 Não te preocupes, aqui estão algumas **dicas** que te vão ajudar a escolher o género certo para o teu livro:
 
