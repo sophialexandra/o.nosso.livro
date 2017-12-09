@@ -14,10 +14,10 @@ Alguns escritores têm uma certa facilidade na criação de personagens, do mund
 
 E agora tu dizes: Todas as ideias possíveis já foram feitas anteriormente:
 
-•	Um rapaz que conhece uma rapariga;
-•	*Aliens* que invadirem a terra;
-•	Um cenário futurístico em que o herói tenta derrubar o mau da fita;
-•	Etc.
+ - Um rapaz que conhece uma rapariga;
+ - *Aliens* que invadirem a terra;
+ - Um cenário futurístico em que o herói tenta derrubar o mau da fita;
+ - Etc.
 
 A minha resposta é: Sim, estás certo, já foi feito praticamente tudo, no entanto aquilo que faz com que a tua história seja única e diferente é o movimento que lhe dás. Todos aqueles sub-enredos que fazem as relações e conexões entre as personagens e o leitor são muito importantes. 
 
