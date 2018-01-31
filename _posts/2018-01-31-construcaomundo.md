@@ -8,7 +8,7 @@ comments: true
 ---
 ![enter image description here](https://i.imgur.com/gOhO81f.jpg)
 
-Criar um mundo é uma tarefa muito complexa, uma vez que tens de ter em conta muitos aspetos fundamentais intrínsecos ao mesmo. O mundo do teu livro pode ser baseado no ***mundo real*** com indivíduos normais a viverem uma vida super normal ou pode ser um ***mundo construído*** detalhadamente de raiz com um novo mapa, uma nova história e novos seres.
+Criar um mundo é uma tarefa muito complexa, uma vez que tens de ter em conta muitos aspetos fundamentais intrínsecos ao mesmo. O mundo do teu livro pode ser baseado no **mundo real** com indivíduos normais a viverem uma vida super normal ou pode ser um **mundo construído** detalhadamente de raiz com um novo mapa, uma nova história e novos seres.
 
 A construção do mundo é indispensável. É normal que, para cada escritor, este passo decorra de forma diferente pelo simples facto de ter um elemento de inspiração diferente. Eu posso inspirar-me mais na história do mundo e tu podes inspirar-te mais na política. Ainda assim, existem duas partes que deves ter em conta no processo de construção do mundo da tua história:
 
