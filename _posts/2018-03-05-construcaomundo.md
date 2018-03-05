@@ -2,7 +2,7 @@
 layout: post
 title: "Construção - O mundo"
 date: "2018-03-05"
-excerpt: "Neste _post_ irei falar primeiramente acerca dos básicos da construção do mundo e, posteriormente, acerca de aspetos a ter em conta na construção de uma Terra alternativa e na construção de um mundo criado completamente de raiz."
+excerpt: "Neste post irei falar primeiramente acerca dos básicos da construção do mundo e, posteriormente, acerca de aspetos a ter em conta na construção de uma Terra alternativa e na construção de um mundo criado completamente de raiz."
 tags: [contrução, mundo, escrever, dicas]
 comments: true
 ---
