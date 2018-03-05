@@ -12,7 +12,7 @@ O próximo seguimento de _posts_ serão sub-temas do grande tópico *Worldbuildi
 
 Neste _post_ irei falar primeiramente acerca dos **básicos da construção do mundo** e, posteriormente, acerca de aspetos a ter em conta na construção de uma Terra alternativa e na construção de um mundo criado completamente de raiz. Esta série de _posts_ “Construção” é apenas um auxiliar para usares como ponto de partida, imagina-os como uma bengala. Podes abordar todos os aspetos referidos ou não e até podes pensar noutros aspetos fundamentais para a tua história em específico. Mas atenção, como já referi, a maior parte dessa informação não vai entrar na história. Todo este conhecimento irá dar-te confiança suficiente para escreveres.
 
- 1. Comecemos então com os **básicos**:
+Comecemos então com os **básicos**:
 
  - Uma das primeiras perguntas que te deves perguntar é se o teu mundo é a Terra tal como a conhecemos ou se é uma Terra alternativa ou até um mundo construído de raiz. Aqui consegues estabelecer automaticamente um conjunto de perguntas a responder ou aspetos a abordar consoante a tua resposta. Se a resposta for a Terra tal como a conhecemos o teu trabalho estará mais facilitado, sendo que apenas terás de pesquisar todo o conhecimento que, por ventura, já existe. As outras duas opções necessitam de mais trabalho sendo importante abordar os seguintes aspetos.
 
@@ -26,7 +26,7 @@ Neste _post_ irei falar primeiramente acerca dos **básicos da construção do m
 
  - Caso tenhas incluído magia no teu mundo, de onde é que este poder vem? De um Deus, da energia do mundo, da força vital de cada indivíduo, etc.? Este poder pode esgotar-se? Quais os efeitos a longo prazo se a magia se alimentar da força vital ou sanidade de cada indivíduo? Pode levar à loucura ou mesmo à morte? As diferentes etnias ou diferentes espécies de criaturas não humanas têm diferentes fontes pelas quais a sua magia se alimenta ou não? Tens muito por onde explorar neste ponto.
 
-2.  Se o mundo que optaste por construir é uma **Terra alternativa** (como foi o meu caso), então também terás de considerar os seguintes aspetos:
+Se o mundo que optaste por construir é uma **Terra alternativa** (como foi o meu caso), então também terás de considerar os seguintes aspetos:
 
  - Caso existam criaturas não-humanas, como os exemplos referidos anteriormente, qual a sua quantidade populacional? Quais as áreas que ocupam? Por exemplo os elfos podem ocupar geralmente as áreas florestais e os vampiros as cavernas escuras.
 
@@ -36,7 +36,7 @@ Neste _post_ irei falar primeiramente acerca dos **básicos da construção do m
 
  - Se não existe um ponto específico de divergência, quais são as diferenças entre o teu mundo e o nosso? Estas diferenças tornam-se óbvias e têm algum efeito na vida diária das tuas personagens? Se não houve este ponto de mudança e sabendo que, por exemplo, a magia, elfos ou vampiros existem e sempre existiram, como é que a sua existência foi mantida em segredo?
 
-3. Existem ainda os pontos específicos que se seguem que irão auxiliar na **construção de um mundo** totalmente **de raiz**:
+Existem ainda os pontos específicos que se seguem que irão auxiliar na **construção de um mundo** totalmente **de raiz**:
 
  - Tenta expor por breves palavras como é que este mundo difere fisicamente da Terra. Tamanho, densidade, gravidade, rácio terra-água (ou outros), atmosfera, etc.? Tem algum sol ou lua? Tem mais do que um sol? Se não tiver sol, existe alguma fonte de luz? Qual? Como é que afeta a meteorologia do mundo?
 
