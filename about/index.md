@@ -15,11 +15,10 @@ E, claro, **ADORO escrever**. Amo ouvir o som da chuva a bater na janela e acend
 
 Foi com 16 anos que escrevi a minha primeira **“grande história”**. Na verdade escrevi uma *fanfiction*, mas para mim era muito mais do que isso. Coloquei muito trabalho, suor e dedicação e, surpreendentemente, tive um *feedback* bastante positivo. A partir daí sabia que um dia iria escrever um livro. Nos anos que passaram tentava sempre começar a escrever, no entanto sentia que faltava um esqueleto que conseguisse suportar a premissa.  
 
-Há um ano comecei a planear, como deve ser, este meu primeiro livro: fiz uma construção exaustiva do mundo, das personagens (de todas, mesmo daquelas que parecem não ter grande importância, porque todas elas têm!!), dos locais e, por fim, do *outline*. Este verão que passou foi o meu ponto de partida na escrita, defini um **objetivo de cerca de 90 000 palavras** e, desde então, tenho percorrido esse caminho. Se quiseres acompanhar mais de perto o meu progresso, **a página inicial do blog apresenta a contagem de palavras atual**. Vai ser difícil? Claro, senão não teria graça nenhuma!
+Recentemente decidi fazer uma pausa do projeto em que estava a trabalhar (talvez demasiado complexo para primeiro livro). Assim, comecei 2019 com um projeto novinho em folha do género YA cotemporâneo. Planeio acabar o 1st Draft no verão e depois revê-lo até ao final do ano. Se quiseres acompanhar mais de perto o meu progresso, **a página inicial do blog apresenta a contagem de palavras atual**. Vai ser difícil? Claro, senão não teria graça nenhuma!
 
 Este Blog foi criado para expor esta minha paixão através de:
 
- - **Pequenos textos e histórias** que, por algum motivo, me apeteceu escrever; 
  - Algumas **dicas** que tenho aprendido;
  - Vestígios do meu **percurso** pelo mundo da escrita rumo à minha primeira publicação.
 
